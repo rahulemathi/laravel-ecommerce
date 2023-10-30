@@ -7,6 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Ecommerce Project in laravel
+
+## Screen Shot
+
+Index page
+
+![index page](https://github.com/rahulemathi/laravel-ecommerce/blob/main/images%20for%20git/index%20page.png?raw=true)
+
+Order page
+
+![order page](https://github.com/rahulemathi/laravel-ecommerce/blob/main/images%20for%20git/order.png?raw=true)
+
+dashboard for admin
+
+![dashboard for admin](https://github.com/rahulemathi/laravel-ecommerce/blob/main/images%20for%20git/dashboard.png?raw=true)
+
+orde page for admin
+
+![order page for admin](https://github.com/rahulemathi/laravel-ecommerce/blob/main/images%20for%20git/orders.png?raw=true)
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
